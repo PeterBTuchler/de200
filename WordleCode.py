@@ -20,8 +20,6 @@ empty_6x5 = [["  ", "  ", "  ", "  ", "  "],
 colors = np.array(empty_6x5, dtype='object')
 won = False
 
-print(goal_word)
-
 print("----------------------------------------------------------")             # Makes it look nice
 print("                    New Game of Wordle                    ")
 print("----------------------------------------------------------")
